@@ -1,5 +1,5 @@
 # Summary
 
 * Start with Events
-* Adding newe events in your calendat
+* Adding newevents in your calendat
 
