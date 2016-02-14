@@ -1,5 +1,7 @@
 # Summary
 
 * Start with Events
-* Adding newevents in your calendat
+* Adding new events to your calendar
+* Templating the lay-out
+
 
