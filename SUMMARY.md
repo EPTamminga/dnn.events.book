@@ -1,7 +1,14 @@
 # Summary
 
-* Start with Events
-* Adding new events to your calendar
+* [Hoofdstuk 1](Hoofdstuk 1.md)
+* [Tweede hoofdstuk](Hoofdstuk 2.md)
 * Templating the lay-out
+
+3 streepjes
+---
+
+3 sterretjes
+***
+
 
 
