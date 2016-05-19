@@ -1,13 +1,13 @@
 # Summary
 
-* [Hoofdstuk 1](Hoofdstuk 1.md)
-* [Tweede hoofdstuk](Tweede hoofdstuk.md)
+* [First Chapter](Chapter 1.md)
+* [Second Chapter](Chapter 2.md)
 * Templating the lay-out
 
-3 streepjes
+3 dashes
 ---
 
-3 sterretjes
+3 asterisks
 ***
 
 
