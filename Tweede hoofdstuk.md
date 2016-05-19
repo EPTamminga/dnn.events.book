@@ -1,6 +1,7 @@
-# Tweede hoofdstuk
-## Eerste paragraaf
-Hier komt nog wat tekst.
+# Second Chapter
+## This is the first paragraph in this chapter
 
-En nu nog underscores
+We will add the text later
+
+Can we do something with underscores?
 ____
